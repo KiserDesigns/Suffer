@@ -2,7 +2,7 @@
 
 Based on macochist16 by Zicodia https://github.com/Z1codia/masochist16
 
-PCBs are pre-flahsed with morelayers firmware.
+PCBs are pre-flashed with morelayers firmware.
 
 morelayers:
  - 8 Layers
