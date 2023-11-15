@@ -4,7 +4,7 @@ Based on macochist16 by Zicodia https://github.com/Z1codia/masochist16
 
 V1.0 PCBs are pre-flashed with morelayers firmware.
 
-V1.1 PCBs are pre-flashed with morecombos firmware.
+V1.1 PCBs are pre-flashed with morecombos firmware and Chronomap ARTSEY keymap.
 
 morelayers:
  - 8 Layers
