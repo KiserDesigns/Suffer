@@ -1,31 +1,17 @@
-# Suffer
+# Suffer V2
+
+V2 PCBs are completely re-designed and powered by an STM32F072.
+Default .bin firmware is available in this repository, as well as the QMK/Vial keyboard folder.
+
+V2 PCBs are pre-flashed with firware with these features:
+
+ - 16 Layers
+ - 32 Macros (2243 bytes)
+ - 64 Combos
+ - 24 Tap-Dance
+ - 32 Key Overrides
+ - QMK Settings Enabled
+
+
 
 Based on macochist16 by Zicodia https://github.com/Z1codia/masochist16
-
-V1.0 PCBs are pre-flashed with morelayers firmware.
-
-V1.1 PCBs are pre-flashed with morecombos firmware and Chronomap ARTSEY keymap.
-
-morelayers:
- - 8 Layers
- - 32 Macros (415 bytes)
- - 16 Combos
- - 12 Tap-Dance
- - QMK Settings Disabled
- - Key Overrides Disabled
-
-keyoverrides:
- - 4 Layers
- - 24 Macros (599 bytes)
- - 8 Combos
- - 8 Tap-Dance
- - QMK Settings Disabled
- - Key Overrides Enabled
-
-morecombos:
- - 8 Layers
- - 16 Macros (179 bytes)
- - 48 Combos
- - Tap-Dance Disabled
- - QMK Settings Enabled
- - Key Overrides Disabled
