@@ -14,6 +14,6 @@ V2 PCBs are pre-flashed with firware with these features:
  - 32 Key Overrides
  - QMK Settings Enabled
 
-
+Plates for the Suffer V2 can be found in the [plates](https://github.com/fivedee/Suffer-v2-Plates/tree/main/plates) directory.
 
 Based on macochist16 by Zicodia https://github.com/Z1codia/masochist16
