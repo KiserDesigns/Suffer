@@ -19,4 +19,4 @@ Plates for the Suffer V2 can be found in the [plates](https://github.com/fivedee
 Based on macochist16 by Zicodia https://github.com/Z1codia/masochist16
 
 ARTSEY layouts are based on Beta 0.9 of [ARTSEY.IO](https://artsey.io/)
-<br>[[Keymap Reference]](https://raw.githubusercontent.com/artseyio/artsey/main/layout%20diagrams/beta.jpg)
+<br>[[Keymap Reference]](https://raw.githubusercontent.com/artseyio/artsey/main/layout%20diagrams/beta.jpg) (OSM/Lock CLEAR does not function)
