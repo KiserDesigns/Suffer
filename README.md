@@ -17,3 +17,6 @@ V2 PCBs are pre-flashed with firware with these features:
 Plates for the Suffer V2 can be found in the [plates](https://github.com/fivedee/Suffer-v2-Plates/tree/main/plates) directory.
 
 Based on macochist16 by Zicodia https://github.com/Z1codia/masochist16
+
+ARTSEY layouts are based on Beta 0.9 of [ARTSEY.IO](https://artsey.io/)
+<br>[[Keymap Reference]](https://raw.githubusercontent.com/artseyio/artsey/main/layout%20diagrams/beta.jpg)
